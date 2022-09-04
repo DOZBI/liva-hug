@@ -1,71 +1,58 @@
 ---
-title: "How To Use Checklists To Improve Your UX"
-date: 2019-10-29T10:07:47+06:00
-draft: false
+title: créations et location de site web applications d'entreprise et ecommerce
+date: 2022-08-31T04:07:47+00:00
+image: https://images.app.goo.gl/NNLAAE5NXttEE1pL6
+description: Développement web
+categories: []
+tags: []
+type: post
 
-# post thumb
-image: "images/post/post-6.jpg"
-
-# meta description
-description: "this is meta description"
-
-# taxonomies
-categories: 
-  - "Python"
-tags:
-  - "Photos"
-  - "Game"
-  - "HTML"
-  - "Python"
-  - "New"
-
-# post type
-type: "post"
 ---
+# Rubrique 1
 
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
+## Rubrique 2
 
-<hr>
+### Rubrique 3
 
-##### Emphasis
+#### Rubrique 4
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+##### Rubrique 5
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
+###### Rubrique 6
 
-Combined emphasis with **asterisks and _underscores_**.
+<h>
 
-Strikethrough uses two tildes. ~~Scratch this.~~
+##### Accent
 
-<hr>
+Emphase, alias italique, avec des _astérisques_ ou des traits de _soulignement_ .
 
-##### Link
-[I'm an inline-style link](https://www.google.com)
+Emphase forte, c'est-à-dire gras, avec des **astérisques** ou des traits de **soulignement** .
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+Emphase combinée avec des **astérisques et des traits de _surlignement_** .
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+Barré utilise deux tildes.~~Grattez ça.~~
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+<h>
 
-[You can use numbers for reference-style link definitions][1]
+##### Privilège
 
-Or leave it empty and use the [link text itself].
+[Je suis un lien de style en ligne](https://www.google.com)
 
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
+[Je suis un lien de style en ligne avec un titre](https://www.google.com "Google's Homepage")
+
+[Je suis un lien de style référence](https://www.mozilla.org)
+
+[Je suis une référence relative à un fichier de référentiel](../blob/master/LICENSE)
+
+[Vous pouvez utiliser des nombres pour les définitions de liens de style référence](http://slashdot.org)
+
+Ou laissez-le vide et utilisez le [texte du lien lui-même](http://www.reddit.com) .
+
+URLs and URLs in angle brackets will automatically get turned into links.
+http://www.example.com or [http://www.example.com](http://www.example.com) and sometimes
 example.com (but not on Github, for example).
 
 Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
 
 <hr>
 
@@ -101,16 +88,14 @@ Inline `code` has `back-ticks around` it.
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
- 
+
 ```python
 s = "Python syntax highlighting"
 print s
 ```
- 
-```
-No language indicated, so no syntax highlighting. 
-But let's throw in a <b>tag</b>.
-```
+
+    No language indicated, so no syntax highlighting. 
+    But let's throw in a <b>tag</b>.
 
 <hr>
 
@@ -125,13 +110,12 @@ But let's throw in a <b>tag</b>.
 You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
 
 <dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
+<dt>Definition list</dt>
+<dd>Is something people use sometimes.</dd>
 
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+<dt>Markdown in HTML</dt>
+<dd>Does _not_ work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
-
 
 <hr>
 
@@ -139,20 +123,20 @@ You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
 
 Colons can be used to align columns.
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Tables | Are | Cool |
+| --- | :---: | ---: |
+| col 3 is | right-aligned | $1600 |
+| col 2 is | centered | $12 |
+| zebra stripes | are neat | $1 |
 
 There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
+The outer pipes (|) are optional, and you don't need to make the
 raw Markdown line up prettily. You can also use inline Markdown.
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+| Markdown | Less | Pretty |
+| --- | --- | --- |
+| Still | renders | nicely |
+| 1 | 2 | 3 |
 
 <hr>
 
