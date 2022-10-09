@@ -1,7 +1,7 @@
 ---
 title: 'Le congo '
 date: 2019-10-29T10:07:47.000+06:00
-image: images/featured-post/1484637285-rd-arrondissement-libreville-gabon-690x378.jpg
+image: ''
 description: this is meta description
 categories:
 - Web Design
