@@ -1,7 +1,7 @@
 ---
-title: 'La culture  congolaises en mauvaises postures  Africaines. '
+title: L'influence  du Congo Brazzaville  sur la république  du Gabon.
 date: 2019-10-29T10:07:47.000+06:00
-image: images/featured-post/festival_niger_reduit.png
+image: images/featured-post/1484637285-rd-arrondissement-libreville-gabon-690x378.jpg
 description: this is meta description
 categories:
 - Web Design
@@ -11,7 +11,7 @@ tags:
 - React
 - Python
 - New
-type: featured
+type: 'Politique. '
 
 ---
 # Rubrique 1
