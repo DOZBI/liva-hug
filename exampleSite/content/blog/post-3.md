@@ -11,7 +11,7 @@ tags:
 - React
 - Python
 - New
-type: 'Politique. '
+type: Html
 
 ---
 # Rubrique 1
@@ -115,7 +115,7 @@ Vous pouvez également utiliser du HTML brut dans votre Markdown, et cela foncti
 
 <dl> <dt>Liste de définitions</dt> <dd>C'est quelque chose que les gens utilisent parfois.</dd>
 
-<dt>Markdown en HTML</dt> <dd>Ne fonctionne _pas_   **très** bien. Utilisez des <em>balises</em> HTML.</dd> </dl>
+<dt>Markdown en HTML</dt> <dd>Ne fonctionne _pas_    **très** bien. Utilisez des <em>balises</em> HTML.</dd> </dl>
 
 <h>
 
