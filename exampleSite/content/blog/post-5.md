@@ -1,74 +1,65 @@
 ---
-title: "How To Use Checklists To Improve Your UX"
-date: 2019-10-29T10:07:47+06:00
-draft: false
-
-# post thumb
-image: "images/post/post-2.jpg"
-
-# meta description
-description: "this is meta description"
-
-# taxonomies
-categories: 
-  - "Go Language"
+title: 'La culture congolais  en mauvaise  posture. '
+date: 2019-10-29T10:07:47.000+06:00
+image: images/post/festival_niger_reduit.png
+description: 'Politique '
+categories:
+- Go Language
 tags:
-  - "Photos"
-  - "HTML"
-  - "Python"
-  - "New"
+- Photos
+- HTML
+- Python
+- New
+type: post
 
-# post type
-type: "post"
 ---
+# Rubrique 1
 
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
+## Rubrique 2
 
-<hr>
+### Rubrique 3
 
-##### Emphasis
+#### Rubrique 4
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+##### Rubrique 5
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
+###### Rubrique 6
 
-Combined emphasis with **asterisks and _underscores_**.
+<h>
 
-Strikethrough uses two tildes. ~~Scratch this.~~
+##### Accent
 
-<hr>
+Emphase, alias italique, avec des _astérisques_ ou des traits de _soulignement_ .
 
-##### Link
-[I'm an inline-style link](https://www.google.com)
+Emphase forte, c'est-à-dire gras, avec des **astérisques** ou des traits de **soulignement** .
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+Emphase combinée avec des **astérisques et des traits de _surlignement_** .
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+Barré utilise deux tildes.~~Grattez ça.~~
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+<h>
 
-[You can use numbers for reference-style link definitions][1]
+##### Privilège
 
-Or leave it empty and use the [link text itself].
+[Je suis un lien de style en ligne](https://www.google.com)
 
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
+[Je suis un lien de style en ligne avec un titre](https://www.google.com "Google's Homepage")
 
-Some text to show that the reference links can follow later.
+[Je suis un lien de style référence](https://www.mozilla.org)
 
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
+[Je suis une référence relative à un fichier de référentiel](../blob/master/LICENSE)
 
-<hr>
+[Vous pouvez utiliser des nombres pour les définitions de liens de style référence](http://slashdot.org)
 
-##### Paragraph
+Ou laissez-le vide et utilisez le [texte du lien lui-même](http://www.reddit.com) .
+
+Les URL et les URL entre crochets seront automatiquement transformés en liens. http://www.example.com ou [http://www.example.com](http://www.example.com) et parfois example.com (mais pas sur Github, par exemple).
+
+Du texte peut montrer que les liens de suivi de référence plus tard.
+
+<h>
+
+##### Paragraphe
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
 
@@ -82,15 +73,13 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime 
 4. List item
 5. List item
 
-
 ##### Unordered List
 
 * List item
 * List item
 * List item
 * List item
-* List item
-<hr>
+* List item <hr>
 
 ##### Code and Syntax Highlighting
 
@@ -100,16 +89,14 @@ Inline `code` has `back-ticks around` it.
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
- 
+
 ```python
 s = "Python syntax highlighting"
 print s
 ```
- 
-```
-No language indicated, so no syntax highlighting. 
-But let's throw in a <b>tag</b>.
-```
+
+    No language indicated, so no syntax highlighting. 
+    But let's throw in a <b>tag</b>.
 
 <hr>
 
@@ -123,14 +110,9 @@ But let's throw in a <b>tag</b>.
 
 You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
 
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
+<dl> <dt>Definition list</dt> <dd>Is something people use sometimes.</dd>
 
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
+<dt>Markdown in HTML</dt> <dd>Does _not_ work **very** well. Use HTML <em>tags</em>.</dd> </dl>
 
 <hr>
 
@@ -138,20 +120,18 @@ You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
 
 Colons can be used to align columns.
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Tables | Are | Cool |
+| --- | :---: | ---: |
+| col 3 is | right-aligned | $1600 |
+| col 2 is | centered | $12 |
+| zebra stripes | are neat | $1 |
 
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
+There must be at least 3 dashes separating each header cell. The outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+| Markdown | Less | Pretty |
+| --- | --- | --- |
+| Still | renders | nicely |
+| 1 | 2 | 3 |
 
 <hr>
 
@@ -161,6 +141,6 @@ Markdown | Less | Pretty
 
 <hr>
 
-##### Youtube video
+##### vidéo Youtube
 
 {{< youtube C0DPdy98e4c >}}
