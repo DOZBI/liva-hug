@@ -1,168 +1,149 @@
 ---
-title: "How To Use Checklists To Improve Your UX"
-date: 2019-10-29T10:07:47+06:00
-draft: false
-
-# post thumb
-image: "images/featured-post/post-3.jpg"
-
-# meta description
-description: "this is meta description"
-
-# taxonomies
-categories: 
-  - "Web Design"
+title: 'La culture  congolaises en mauvaises postures  Africaines. '
+date: 2019-10-29T10:07:47.000+06:00
+image: images/featured-post/festival_niger_reduit.png
+description: this is meta description
+categories:
+- Web Design
 tags:
-  - "Photos"
-  - "Game"
-  - "React"
-  - "Python"
-  - "New"
+- Photos
+- Game
+- React
+- Python
+- New
+type: featured
 
-# post type
-type: "featured"
 ---
+# Rubrique 1
 
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
+## Rubrique 2
 
-<hr>
+### Rubrique 3
 
-##### Emphasis
+#### Rubrique 4
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+##### Rubrique 5
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
+###### Rubrique 6
 
-Combined emphasis with **asterisks and _underscores_**.
+<h>
 
-Strikethrough uses two tildes. ~~Scratch this.~~
+##### Accent
 
-<hr>
+Emphase, alias italique, avec des _astérisques_ ou des traits de _soulignement_ .
 
-##### Link
-[I'm an inline-style link](https://www.google.com)
+Emphase forte, c'est-à-dire gras, avec des **astérisques** ou des traits de **soulignement** .
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+Emphase combinée avec des **astérisques et des traits de _surlignement_** .
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+Barré utilise deux tildes.~~Grattez ça.~~
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+<h>
 
-[You can use numbers for reference-style link definitions][1]
+##### Privilège
 
-Or leave it empty and use the [link text itself].
+[Je suis un lien de style en ligne](https://www.google.com)
 
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
+[Je suis un lien de style en ligne avec un titre](https://www.google.com "Google's Homepage")
 
-Some text to show that the reference links can follow later.
+[Je suis un lien de style référence](https://www.mozilla.org)
 
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
+[Je suis une référence relative à un fichier de référentiel](../blob/master/LICENSE)
 
-<hr>
+[Vous pouvez utiliser des nombres pour les définitions de liens de style référence](http://slashdot.org)
 
-##### Paragraph
+Ou laissez-le vide et utilisez le [texte du lien lui-même](http://www.reddit.com) .
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
+Les URL et les URL entre crochets seront automatiquement transformés en liens. http://www.example.com ou [http://www.example.com](http://www.example.com) et parfois example.com (mais pas sur Github, par exemple).
 
-<hr>
+Du texte peut montrer que les liens de suivi de référence plus tard.
 
-##### Ordered List
+<h>
 
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
+##### Paragraphe
 
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur ! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga ! Optio vel ipsum excepturi tempore reiciendis id quidem ? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a ! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
 
-##### Unordered List
+<h>
 
-* List item
-* List item
-* List item
-* List item
-* List item
+##### Liste ordonnée
 
-<hr>
+1. Élément de liste
+2. Élément de liste
+3. Élément de liste
+4. Élément de liste
+5. Élément de liste
 
-##### Code and Syntax Highlighting
+##### Liste non ordonnée
 
-Inline `code` has `back-ticks around` it.
+* Élément de liste
+* Élément de liste
+* Élément de liste
+* Élément de liste
+* Élément de liste
+
+<h>
+
+##### Mise en évidence du code et de la syntaxe
+
+Inline l' `code`a `back-ticks around`.
 
 ```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
- 
+
 ```python
 s = "Python syntax highlighting"
 print s
 ```
- 
-```
-No language indicated, so no syntax highlighting. 
-But let's throw in a <b>tag</b>.
-```
 
-<hr>
+    No language indicated, so no syntax highlighting. 
+    But let's throw in a <b>tag</b>.
 
-##### Blockquote
+<h>
 
-> This is a blockquote example.
+##### Citation en bloc
 
-<hr>
+> Ceci est un exemple de bloc de citation.
 
-##### Inline HTML
+<h>
 
-You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
+##### HTML intégré
 
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
+Vous pouvez également utiliser du HTML brut dans votre Markdown, et cela fonctionnera plutôt bien.
 
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
+<dl> <dt>Liste de définitions</dt> <dd>C'est quelque chose que les gens utilisent parfois.</dd>
 
+<dt>Markdown en HTML</dt> <dd>Ne fonctionne _pas_ **très** bien. Utilisez des <em>balises</em> HTML.</dd> </dl>
 
-<hr>
+<h>
 
-##### Tables
+##### les tables
 
-Colons can be used to align columns.
+Les deux points peuvent être utilisés pour aligner les colonnes.
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Tables | Are | Cool |
+| --- | :---: | ---: |
+| col 3 is | right-aligned | $1600 |
+| col 2 is | centered | $12 |
+| zebra stripes | are neat | $1 |
 
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
+Il doit y avoir au moins 3 tirets séparant chaque cellule d'en-tête. Les tuyaux extérieurs (|) sont facultatifs et vous n'avez pas besoin d'aligner joliment le Markdown brut. Vous pouvez également utiliser Markdown en ligne.
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+| Markdown | Less | Pretty |
+| --- | --- | --- |
+| Still | renders | nicely |
+| 1 | 2 | 3 |
 
-<hr>
+<h>
 
 ##### Image
 
 ![image](../../images/post/post-1.jpg)
 
-<hr>
+<h>
 
-##### Youtube video
+##### vidéo Youtube
 
 {{< youtube C0DPdy98e4c >}}
