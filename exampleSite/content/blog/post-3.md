@@ -1,5 +1,5 @@
 ---
-title: L'influence  du Congo Brazzaville  sur la république  du Gabon.
+title: 'Le congo '
 date: 2019-10-29T10:07:47.000+06:00
 image: images/featured-post/1484637285-rd-arrondissement-libreville-gabon-690x378.jpg
 description: this is meta description
@@ -115,7 +115,7 @@ Vous pouvez également utiliser du HTML brut dans votre Markdown, et cela foncti
 
 <dl> <dt>Liste de définitions</dt> <dd>C'est quelque chose que les gens utilisent parfois.</dd>
 
-<dt>Markdown en HTML</dt> <dd>Ne fonctionne _pas_  **très** bien. Utilisez des <em>balises</em> HTML.</dd> </dl>
+<dt>Markdown en HTML</dt> <dd>Ne fonctionne _pas_   **très** bien. Utilisez des <em>balises</em> HTML.</dd> </dl>
 
 <h>
 
